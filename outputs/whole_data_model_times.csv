@@ -1,0 +1,7 @@
+whole_data_model_times,,
+name,time (seconds),training score,testing score
+log_reg,8.35941481590271,100.0,97.8
+svm_linear,45.07955574989319,100.0,97.6
+svm_poly_2,75.72205710411072,99.8,98.0
+svm_poly_3,292.9936969280243,99.78333333333333,96.7
+svm_poly_4,336.7128210067749,99.2,94.1
