@@ -1,4 +1,4 @@
-corr_model_times,
+corr_model_times,,
 name,time (seconds),training score,testing score
 test_cor,402.2243580818176,0,0
 log_reg,2.516590118408203,100.0,95.8
