@@ -16,7 +16,7 @@ See the `Final Presentation.pdf` file for a summary and conclusion of our work.
 
 The following packages are required to run the code:
 
-- [Gurobi](https://www.gurobi.com/) (you also need a licence)
+- [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [sklearn](https://scikit-learn.org/stable/)
