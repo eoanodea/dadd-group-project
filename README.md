@@ -2,7 +2,7 @@
 
 ## ✏️ Introduction
 
-Group assignment for the Data Analytics & Data Driven Decisions course.
+Group assignment for the Data Analytics & Data Driven Decisions course, with [Vipul Chalotra](https://github.com/vipul-chalo)
 
 Using Machine Learning models to separe the highly confusable handwritten digits '4' and '9'. Based on the Gisette dataset from [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/170/gisette).
 
